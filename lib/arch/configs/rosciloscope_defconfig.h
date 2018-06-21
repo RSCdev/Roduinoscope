@@ -1,0 +1,8 @@
+
+#define CONFIG_SERIAL_BAUD_RATE 	9600
+
+/* TFT SCREEN CONFIGS */
+#define CONFIG_TFT_DC 			9
+#define CONFIG_TFT_RST 			8
+#define CONFIG_TFT_CS 			10
+
